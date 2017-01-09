@@ -1,0 +1,17 @@
+Einkaufsliste
+
+Servos:
+
+Servo 20kg 180Grad, 18,61€
+https://www.amazon.de/Frontier-Servo-PDI-5521MG-Digital-Standard/dp/B01LZ8N2IV/ref=sr_1_6?ie=UTF8&qid=1477303694&sr=8-6&keywords=180+grad+servo
+
+
+Servo 2.5kg 180Grad 9,99€
+https://www.amazon.de/dp/B00D7YYZ0W/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=3RT7UWPU2ZB62&coliid=I1ZQYT7F2FA120
+
+
+USB HUB 12,99,€ 3 HUBS 
+https://www.amazon.de/Sabrent-3-Port-Aluminium-Mini-USB-3-0-drehbaren-180%C2%B0Grad-HB-R3MC/dp/B013XGK53E/ref=sr_1_22?s=ce-de&ie=UTF8&qid=1477304107&sr=1-22&keywords=usb+hub
+
+Jumpe wires Male to female
+https://www.amazon.de/KIMILAR-2-54mm-Breadboard-jumper-Arduino/dp/B00DI4ZSRU/ref=sr_1_8?s=ce-de&ie=UTF8&qid=1477304206&sr=1-8&keywords=jumper%2Bwires&th=1
